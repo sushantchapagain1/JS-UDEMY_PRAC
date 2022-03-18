@@ -23,6 +23,8 @@ import { MODEL_CLOSE_SEC } from './config.js';
 // q or :q to quit in github.
 // in each branch the code in different.
 // git merge branchNameOfCodeWhichWeWant
+// git remote add origin https://github.com/sushantchapagain1/JS-UDEMY_PRAC.git from github to connect local and cloud
+// type nul > your_file.txt craete file in windows
 
 const controlRecipes = async function () {
   try {
