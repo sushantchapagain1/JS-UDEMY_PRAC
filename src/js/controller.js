@@ -16,7 +16,13 @@ import { MODEL_CLOSE_SEC } from './config.js';
 // npm i --save-dev parcel
 //  npm i core-js regenerator-runtime for polyfilling all and regenrator for async await to run in all browsers.
 
-// git reset --hard HEAD - to bring back to committed codes
+// git reset --hard HEAD or id if multiple commit  - to bring back to committed codes
+// create a branch git branch branchName
+// go to the brach git checkout branchName
+// to see all branch git branch
+// q or :q to quit in github.
+// in each branch the code in different.
+// git merge branchNameOfCodeWhichWeWant
 
 const controlRecipes = async function () {
   try {
