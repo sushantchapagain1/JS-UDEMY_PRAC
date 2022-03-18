@@ -16,6 +16,8 @@ import { MODEL_CLOSE_SEC } from './config.js';
 // npm i --save-dev parcel
 //  npm i core-js regenerator-runtime for polyfilling all and regenrator for async await to run in all browsers.
 
+// git reset --hard HEAD - to bring back to committed codes
+
 const controlRecipes = async function () {
   try {
     const hashedId = window.location.hash.slice(1); // gets the url's hashed Id
